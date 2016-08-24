@@ -269,11 +269,11 @@ function create_config( )
    "wiki",
    "ver",
     },
-    sudo_users = {120629055,239513151},--Sudo users
+    sudo_users = {158586343},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[ ]],
-    help_text_realm = [[ ]],
-    help_text = [[ ]],
+    about_text = [[CHANNEL : @TeleSudo_TEAM\n\nCreator's :\n1- @Agent_sudo\n2- @black1m\n\nAdmins :\n1- @ali_dev_avatar_TG\n2- @vampirism\n3- @blackwolf_sudo\n\n\n\nTELE SUDO TEAM]],
+    help_text_realm = [[کس ننت که ریلم ساختی کونی]],
+    help_text = [[سوپرش کن بعد بزن کسمخ]],
 	help_text_super =[[
 📝 لیست دستورات :
 
